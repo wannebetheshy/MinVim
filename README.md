@@ -7,8 +7,8 @@
 
 ## Requirements
 
-- Vimplug
-- Nerd font (To display devicons correctly)
+- [Vimplug](https://github.com/junegunn/vim-plug)
+- [Nerd font](https://www.nerdfonts.com/font-downloads) (To display devicons correctly)
 
 ## Includes
 
