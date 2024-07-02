@@ -2,6 +2,7 @@
 # MinVim
 
 ![Terminal photo](pics/terminal.png)
+
 ![Terminal and nerd tree photo](pics/nerd_tree_split.png)
 
 ## Requirements
