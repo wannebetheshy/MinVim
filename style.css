@@ -1,0 +1,60 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+ 	font-family: "JetBrains Mono";
+}
+
+.intro-block{
+	text-align: center;
+}
+
+.intro-block_logo img{
+	width: 35vh;
+	height: 35vh;
+}
+
+.intro-block_site-name span{
+	font-size: 12vh;
+  	font-weight: bold;
+}
+
+.intro-block_description{
+	margin: 0 10%;
+	text-align: center;
+}
+
+.intro-block_description p{
+	font-size: 5vh;
+}
+
+
+.links{
+	text-align: center;
+}
+
+.links a{
+	margin: 0 5px;
+	text-decoration: none;
+	color: black;
+	padding: 5px 10px;
+	border: 1px solid black;
+	border-radius: 20px;
+}
+
+.links a:hover{
+	background-color: black;
+	color: white;
+	transition-duration: 0.3s;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.italic{
+	font-style: italic;
+}
+
+

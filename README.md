@@ -10,6 +10,10 @@
 - [Vimplug](https://github.com/junegunn/vim-plug)
 - [Nerd font](https://www.nerdfonts.com/font-downloads) (To display devicons correctly)
 
+## Installation
+
+- `git clone /`
+
 ## Includes
 
 - Basic neutral theme and airline, that can be customed/uninstalled
