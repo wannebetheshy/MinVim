@@ -16,7 +16,7 @@ body{
 }
 
 .intro-block_site-name span{
-	font-size: 12vh;
+	font-size: 11vh;
   	font-weight: bold;
 }
 
@@ -30,6 +30,7 @@ body{
 }
 
 .links{
+	margin: 0 5%;
 	display: flex;
 	justify-content: center;
 }
