@@ -29,9 +29,9 @@ body{
 	font-size: 5vh;
 }
 
-
 .links{
-	text-align: center;
+	display: flex;
+	justify-content: center;
 }
 
 .links a{
@@ -49,6 +49,19 @@ body{
 	transition-duration: 0.3s;
 }
 
+.cont-info_block{
+	box-sizing: border-box;
+	margin: 3% 7%;
+}
+
+.cont-info_img{
+	text-align: center;
+}
+
+.cont-info_img img{
+	width: 100%;
+}
+
 .bold{
 	font-weight: bold;
 }
@@ -57,4 +70,9 @@ body{
 	font-style: italic;
 }
 
-
+.code_style{
+	color: white;
+	background-color: black;
+	padding: 1px 3px;
+	border-radius: 4px;
+}
